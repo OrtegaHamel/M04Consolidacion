@@ -1,0 +1,41 @@
+
+body {
+  background-color: #f8f6db;
+  color: white;
+}
+
+h1 {
+  letter-spacing: 4px;
+}
+
+.indexes {
+  font-weight: bold;
+  color: #131212;
+  text-align: right;
+}
+
+
+
+#primer-grupo {
+  background-color: #fa8072;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#segundo-grupo {
+  background-color: #90ee90;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#tercer-grupo {
+  background-color: #87cefa;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#cuarto-grupo {
+  background-color: #e6e6e6;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
